@@ -1,7 +1,7 @@
 // -*- mode: c++; c-basic-offset: 2; indent-tabs-mode: nil; -*-
 
-#include "content-streamer.h"
-#include "led-matrix.h"
+#include "../include/content-streamer.h"
+#include "../include/led-matrix.h"
 
 #include <fcntl.h>
 #include <stdio.h>

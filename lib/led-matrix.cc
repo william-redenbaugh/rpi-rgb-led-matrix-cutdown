@@ -13,7 +13,7 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://gnu.org/licenses/gpl-2.0.txt>
 
-#include "led-matrix.h"
+#include "../include/led-matrix.h"
 
 #include <assert.h>
 #include <grp.h>
@@ -30,7 +30,7 @@
 #include <unistd.h>
 
 #include "gpio.h"
-#include "thread.h"
+#include "../include/thread.h"
 #include "framebuffer-internal.h"
 #include "multiplex-mappers-internal.h"
 

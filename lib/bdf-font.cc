@@ -19,7 +19,7 @@
 #endif
 #include <inttypes.h>
 
-#include "graphics.h"
+#include "../include/graphics.h"
 
 #include <stdlib.h>
 #include <stdio.h>
